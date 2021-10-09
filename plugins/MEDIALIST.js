@@ -37,6 +37,6 @@ Neotro.addCommand({pattern: 'moretxt', fromMe: fs, desc: 'more text img commands
 }));
 
 Neotro.addCommand({pattern: 'stlist', fromMe: fs, desc: TT}, (async (message, match) => {
-  await message.sendMessage('*╭─「 AMAZONE SUPER TTP 」*\n│ \n│PublicBOt Super TTP pack)\n│ සිංහල Font Support 😍\n╰────\n╭─「 COMMANDS」\n│ \n│ • 1ttp <your Text >\n│ • 2ttp <your Text >\n│ • 3ttp <your Text >\n「 THilina-Methsahan」');
+  await message.sendMessage('*╭─「 Public-Bot TTP 」*\n│ \n│PublicBOt Super TTP pack)\n│ සිංහල Font Support 😍\n╰────\n╭─「 COMMANDS」\n│ \n│ • 1ttp <your Text >\n│ • 2ttp <your Text >\n│ • 3ttp <your Text >\n「 THilina-Methsahan」');
   
 }));
