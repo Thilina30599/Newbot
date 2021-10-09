@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://telegra.ph/file/4b179576069e6a0e59057.jpg)
+![logo](https://telegra.ph/file/81caf7e2e823fe31de9e7.png)
 <h1 align="center"><b> Public-Bot🤖(ᴠɪᴘ) </b></h1>
 
 </a>
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/Thilina30599/Newbot">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94786598862">
+  <a href="https://wa.me/94772789984">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
@@ -94,18 +94,18 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 
-> [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
+> [![සම්පූර්ණ සිංහල Tutorial](https://telegra.ph/file/81caf7e2e823fe31de9e7.png)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
 # 🚀Amazone පහසුකම් ලැයිස්තුව
 
-<a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
+<a href="https://gist.github.com/Thilina30599/7f1dfa65d7948612f2ce97e449634cc0">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
 
 මෙන්න සම්පූර්ණ විධාන ලැයිස්තුව
 
-<a href="https://gist.github.com/xneon2/61e9205076afa540fc1d5f7a6f467bd1">
+<a href="https://gist.github.com/Thilina30599/b671f4e60387e73c95ef1d9c6f68f274">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
@@ -120,7 +120,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### 💰මෙම බොට් ගෙවිය යුතුද?
-**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94766598862) .
+**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/94772789984) .
 
 ### ❓ඔබට මෙය නැවත සංස්කරණය කළ හැකිද??
 ***අනිවාර්යයෙන් ඔබට හැකියි.*** නමුත් අපෙන් ඔබට කිසිදු සහයක් නොමැත.
@@ -129,16 +129,16 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 ```
 පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
-නියත වශයෙන්ම,Neotro-x  විධායකයන් වගකීම භාර නොගනී.
-neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
+නියත වශයෙන්ම,Public-Botවිධායකයන් වගකීම භාර නොගනී.
+Public-Bot  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Thilinah-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
-<a href="https://Wa.me/+94766598862">
+ ***Thilina(Founder of Public-Bot)***
+<a href="https://Wa.me/94772789984">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
@@ -160,7 +160,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/94772789984)
 
 
 ### 🚀Amazone Alexa Team
