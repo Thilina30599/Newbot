@@ -12,7 +12,7 @@ Neotro.addCommand({ pattern: 'ftext ?(.*)', desc: Lang.FRANCY, fromMe: false }, 
 const word = match[1]
 if (!word) return await message.sendMessage(" *Please Input Word* ")
 
-await message.sendMessage('👻 *Text Converting* 🕊')
+await message.sendMessage('🔁 *Text Converting* ⏩')
 
 await axios
       .get(`https://bx-hunter.herokuapp.com/api/fancytext?text=${word}&apikey=Ikyy69`)
@@ -40,7 +40,7 @@ else if (Config.WORKTYPE == 'private') {
 const word = match[1]
 if (!word) return await message.sendMessage(" *Please Input Word* ")
 
-await message.sendMessage('👻 *Text Converting* 🕊')
+await message.sendMessage('🔁 *Text Converting* ⏩')
 
 await axios
       .get(`https://bx-hunter.herokuapp.com/api/fancytext?text=${word}&apikey=Ikyy69`)
