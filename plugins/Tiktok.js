@@ -5,7 +5,7 @@ const Config = require('../config');
 const Language = require('../language');
 const Lang = Language.getString('scrapers');
 const ALang = Language.getString('amazone');
-const capt = "🦹‍♀️Amazone Tiktok Downloader* 🕊\n"
+const capt = "Public-Bot *Tiktok Video Downloader*⏬\n"
 
 if (Config.WORKTYPE == 'public') {
 	
@@ -15,7 +15,7 @@ Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: false, desc: ALang.TIKTOk}, 
 
     if (!link) return await message.sendMessage(" *Give Vaild Tiktok Link* ")
 
-    await message.sendMessage('👻 *Tiktok Video Downloader* 🕊 \n'+Lang.DOWNLOADING_VIDEO)
+    await message.sendMessage('📽️ *Tiktok Video Downloader*⏬ \n'+Lang.DOWNLOADING_VIDEO)
 
 				await axios
 					.get(`https://zenzapi.xyz/api/downloader/tiktok?url=${link}&apikey=5c3ceca04a58`)
@@ -44,7 +44,7 @@ Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: false, desc: ALang.TIKTOk}, 
 
     if (!link) return await message.sendMessage(" *Give Vaild Tiktok Link* ")
 
-    await message.sendMessage('👻 *Tiktok Video Downloader* 🕊 \n'+Lang.DOWNLOADING_VIDEO)
+    await message.sendMessage('📽️ *Tiktok Video Downloader*⏬ \n'+Lang.DOWNLOADING_VIDEO)
 
 				await axios
 					.get(`https://zenzapi.xyz/api/downloader/tiktok?url=${link}&apikey=5c3ceca04a58`)
@@ -77,7 +77,7 @@ else if (Config.WORKTYPE == 'private') {
 
     if (!link) return await message.sendMessage(" *Give Vaild Tiktok Link* ")
 
-    await message.sendMessage('👻 *Tiktok Video Downloader* 🕊 \n'+Lang.DOWNLOADING_VIDEO)
+    await message.sendMessage('📽️ *Tiktok Video Downloader*⏬ \n'+Lang.DOWNLOADING_VIDEO)
 
 				await axios
 					.get(`https://zenzapi.xyz/api/downloader/tiktok?url=${link}&apikey=5c3ceca04a58`)
