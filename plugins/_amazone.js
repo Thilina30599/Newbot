@@ -245,7 +245,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-     amazone.addCommand({pattern: 'thilina ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+     amazone.addCommand({pattern: 'pubot ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
          
         var CMD_HELP = '';
         if (match[1] === '') {
