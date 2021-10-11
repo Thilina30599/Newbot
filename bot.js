@@ -113,119 +113,119 @@ setInterval(async () => {
                 var ov_time = new Date().toLocaleString('AZ', { timeZone: 'Asia/Baku' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('94')) { // Sri Lanka
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('LK', { timeZone: 'Asia/Colombo' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('351')) { // Portugal
                 var ov_time = new Date().toLocaleString('PT', { timeZone: 'Europe/Lisbon' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('75')) { // Russia
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('RU', { timeZone: 'Europe/Kaliningrad' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('7')) { // Indian
                 var ov_time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('62')) { // Indonesia
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('ID', { timeZone: 'Asia/Jakarta' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('49')) { // Germany
                 var ov_time = new Date().toLocaleString('DE', { timeZone: 'Europe/Berlin' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('61')) { // Australia 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('AU', { timeZone: 'Australia/Lord_Howe' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('55')) { // Brazil
                 var ov_time = new Date().toLocaleString('BR', { timeZone: 'America/Noronha' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('33')) { // France
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('FR', { timeZone: 'Europe/Paris' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('34')) { // Spain
                 var ov_time = new Date().toLocaleString('ES', { timeZone: 'Europe/Madrid' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('44')) { // UK
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('GB', { timeZone: 'Europe/London' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('39')) { // Italy 
                 var ov_time = new Date().toLocaleString('IT', { timeZone: 'Europe/Rome' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('7')) { // Kazakhistan
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('KZ', { timeZone: 'Asia/Almaty' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('998')) { // Uzbekistan 
                 var ov_time = new Date().toLocaleString('UZ', { timeZone: 'Asia/Samarkand' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('993')) { // Turkmenistan
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('TM', { timeZone: 'Asia/Ashgabat' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
             else {
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('EN', { timeZone: 'America/New_York' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n🕕 ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n ' + config.BIO +' \nᴾᵒʷᵉʳᵉᵈ ᴮʸPublic-Bot™\nCoded By Thilina'
                 await conn.setStatus(biography)
             }
         }
@@ -624,7 +624,7 @@ ${chalk.blue.italic('🤖 Connecting to WhatsApp...')}`);
                             if (config.NOLOG == 'true') return;
 
                             if (config.LANG == 'SI' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [🛡️Queen-Amazone] --*' + 
+                                await conn.sendMessage(conn.user.jid, '*-- බොට් වාර්තාව [🛡️Public-Bot] --*' + 
                                     '\n*Public-Bot🤖 නිසි ලෙස ක්‍රියා කරයි!*'+
                                     '\n_මෙය ඔබගේ LOG අංකයයි! _මෙහි විධාන භාවිතයෙන් වළකින්න_' +
                                     '\n_ඔබට පුලුවන් වෙනත් ඕනෑම කතාබහක විධාන භාවිතා කරන්න._' +
@@ -752,7 +752,7 @@ ${chalk.blue.italic('🤖 Connecting to WhatsApp...')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🙇🏻 කණගාටුයි AUTO ERROR පද්ධතියට හදුනාගත නොහැකියි! 🙇🏻*' +
-                                        '\n_ඔබට පුලුවන් වැඩිදුර උදව් සදහා සහය සමූහයට ලිවීමට..🛡️ https://t.me/Amazone_Neotrox_Support_'
+                                        '\n_ඔබට පුලුවන් වැඩිදුර උදව් සදහා සහය සමූහයට ලිවීමට..🛡️ https://t.me/joinchat/mCBn8P0I8KI1NDBl
                                         , MessageType.text
                                     );
                                 }
@@ -762,7 +762,7 @@ ${chalk.blue.italic('🤖 Connecting to WhatsApp...')}`);
                                     '\n*🤖Public-Bot Working Perfectly!*'+
                                     '\n_This is Your LOG Number Dont try Command here.!_' +
                                     '\n_Also you can Join our Support group.._' +
-                                    '\n_Support groups_: https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX 🛡️ https://t.me/Amazone_Neotrox_Support_' +
+                                    '\n_Support groups_: https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX 🛡️ https://t.me/joinchat/mCBn8P0I8KI1NDBl +
                                     '\n_(saved Messages)._\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
@@ -886,7 +886,7 @@ ${chalk.blue.italic('🤖 Connecting to WhatsApp...')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🧑‍🏭Sorry, I Couldnt Read This Error!🙇🏻*' +
-                                        '\n_You can write to our support groups for more help...🛡️ https://t.me/Amazone_Neotrox_Support_'
+                                        '\n_You can write to our support groups for more help...🛡️ https://t.me/joinchat/mCBn8P0I8KI1NDBl
                                         , MessageType.text
                                     );
                                }
