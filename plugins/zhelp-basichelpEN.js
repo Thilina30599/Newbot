@@ -15,15 +15,15 @@ if (Config.LANG == 'EN') {
        
         await message.sendMessage (Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `*⊰᯽⊱┈──╌❊  ❊╌──┈⊰᯽⊱*
  *═▣══❖⦁⦁⦁👽⦁⦁⦁❖══▣═*
-*🚀Neotro-x BASIC Help*
+*🚀Public-Bot BASIC Help*
 
  Nootro-x Bot If you are using (Public) mode then you are only running admin commands.
 But for others, all the commands except the admin commands are active ...
 
 Use (.Admin) to get the admin command list
-Use (.alexa) to get the complete command list.
+Use (.pubot) to get the complete command list.
 
-If you are using neotro-x as Private (.neotro) you can use this command to get the command list.
+If you are using Public-Bot as Private (.menu) you can use this command to get the command list.
 
 Simultaneous deactivation of your bot is not the bot's fault (75%)
 In that case, check your internet connection and whatsapp web.
@@ -40,7 +40,7 @@ Steps
 (04) Click Restart all dynos at the end of the list
 Now your Bot will restart..If using it does not activate the Bot then write to the support group with a screen shot of the logs
 
-Did you know that Neotro-x allows you to change Alive message - Alive logo - Welcome Gif - Ban messages - Captions ..
+Did you know that Public-Bot allows you to change Alive message - Alive logo - Welcome Gif - Ban messages - Captions ..
 
 
 *Command: .setvar ALIVE_MESSAGE :( Write what you want)*
@@ -132,23 +132,8 @@ ERRO Messages These are really Logo Site issues so don't worry about them.
 Other Erros have received your LOG number in detail and there is a solution to this .. Follow those steps
 
 
-*🚀Neotro-x Support Groups*
-🛡️ https://t.me/Amazone_Neotrox_Support
-
-🛸Neutro Bot News 01
-Https: //chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo
-
-🚀Neotro Bot News 02
-Https: //chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq
-
-🛸Neutro plugging
-Https: //chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT
-
-🚀Neutro Support Community 01
-Https: //chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX
-
-🚀Neotro Support Community 02
-Https: //chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj
+*🚀Public-Bot Support Groups*
+🛡️ https://t.me/joinchat/mCBn8P0I8KI1NDBl
  `}) 
 
  }));
