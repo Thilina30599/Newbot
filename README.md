@@ -96,7 +96,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
 > [![සම්පූර්ණ සිංහල Tutorial](https://telegra.ph/file/81caf7e2e823fe31de9e7.png)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Amazone පහසුකම් ලැයිස්තුව
+# 🚀Public-Bot පහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/Thilina30599/7f1dfa65d7948612f2ce97e449634cc0">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -135,7 +135,7 @@ Public-Bot  පිහිටුවීමෙන් ඔබ මෙම වගකී�
 
 ## 👨‍💻Developer
 
-[![Thilinah-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Thilina-Methsahan](https://telegra.ph/file/e10839a456954551f77bb.jpg?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
  ***Thilina(Founder of Public-Bot)***
 <a href="https://Wa.me/94772789984">
@@ -163,9 +163,9 @@ Public-Bot  පිහිටුවීමෙන් ඔබ මෙම වගකී�
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/94772789984)
 
 
-### 🚀Amazone Alexa Team
+### 🚀Public-Bot Team
 
-[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/thilauna) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+9477289984) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ransika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
