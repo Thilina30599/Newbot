@@ -15,7 +15,7 @@ Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: false, desc: ALang.TIKTOk}, 
 
     if (!link) return await message.sendMessage(" *Give Vaild Tiktok Link* ")
 
-    await message.sendMessage('📽️ *Tiktok Video Downloader*⏬ \n'+Lang.DOWNLOADING_VIDEO)
+    await message.sendMessage('████████▀▀▀████\n████████────▀██\n████████──█▄──█\n███▀▀▀██──█████\n█▀──▄▄██──█████\n█──█████──█████\n█▄──▀▀▀──▄█████\n███▄▄▄▄▄███████\n╔══╦╦╦╗╔══╦═╦╦╗\n╚╗╔╣║═╣╚╗╔╣║║═╣\n═╚╝╚╩╩╝═╚╝╚═╩╩╝\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n              '+Lang.DOWNLOADING_VIDEO)
 
 				await axios
 					.get(`https://zenzapi.xyz/api/downloader/tiktok?url=${link}&apikey=5c3ceca04a58`)
