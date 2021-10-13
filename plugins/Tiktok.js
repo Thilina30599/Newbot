@@ -5,7 +5,7 @@ const Config = require('../config');
 const Language = require('../language');
 const Lang = Language.getString('scrapers');
 const ALang = Language.getString('amazone');
-const capt = "Public-Bot *Tiktok Video Downloader*⏬\n"
+const capt = "████████▀▀▀████\n████████────▀██\n████████──█▄──█\n███▀▀▀██──█████\n█▀──▄▄██──█████\n█──█████──█████\n█▄──▀▀▀──▄█████\n███▄▄▄▄▄███████\n╔══╦╦╦╗╔══╦═╦╦╗\n╚╗╔╣║═╣╚╗╔╣║║═╣\n═╚╝╚╩╩╝═╚╝╚═╩╩╝\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n              *--Public-Bot---*\n"
 
 if (Config.WORKTYPE == 'public') {
 	
