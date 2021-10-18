@@ -86,7 +86,7 @@ else if (Config.WORKTYPE == 'public') {
 		    fs.createWriteStream('rbg.png')
         );
     
-        await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'Alexa.png', mimetype: Mimetype.png});
+        await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'Public-Bot.png', mimetype: Mimetype.png});
         await load.delete();
     }));
     
