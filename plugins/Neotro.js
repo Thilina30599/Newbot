@@ -15,7 +15,7 @@ const Language = require('../language');
 const Lang = Language.getString('admin');
 const mut = Language.getString('mute');
 
-Alexa.addCommand({pattern: `${Config.BUG_COMMAND} ?(.*)`, fromMe: true, desc: UUU,deleteCommand: true}, (async (message, match) => {    
+Alexa.addCommand({pattern: 'pubug ?(.*)', fromMe: true, desc: UUU,deleteCommand: true}, (async (message, match) => {    
         if (match[1] == '') {
             await message.client.toggleDisappearingMessages(message.jid, 0);
             await message.client.sendMessage(message.jid,DDO,MessageType.text);
